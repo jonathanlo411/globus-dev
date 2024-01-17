@@ -1,3 +1,5 @@
+#!/usr/bin/bash
+
 # Login to Globus
 globus login
 
